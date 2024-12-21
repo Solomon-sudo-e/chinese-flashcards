@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flashcard Quiz</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <header>
+    <h1>Flashcard Quiz</h1>
+    <p>Learn Chinese the fun way!</p>
+  </header>
+  <main>
+    <form id="quiz-setup-form" method="post" action="/quiz">
+      <h2>Select Lessons:</h2>
+      {% for lesson in lessons %}
+        <div class="lesson-group">
+          <label for="lesson-{{ loop.index }}">{{ lesson }}</label>
+          {% for part in parts %}
+            <input type="checkbox" name="parts" value="{{ lesson }}:{{ part }}" id="{{ lesson }}:{{ part }}">
+            <label for="{{ lesson }}:{{ part }}">{{ part }}</label>
+          {% endfor %}
+        </div>
+      {% endfor %}
+      <h2>Include Pinyin Hint?</h2>
+      <input type="checkbox" name="pinyin" value="Pinyin" id="Pinyin">
+      <h2>Number of Correct Answers to Master:</h2>
+      <input type="number" name="num_to_mastered" id="num_to_mastered" min="1" value="3" required>
+      <button type="submit">Start Quiz</button>
+    </form>
+  </main>
+  <footer>
+    <div id="panda"></div>
+  </footer>
+</body>
+</html>

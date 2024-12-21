@@ -1,0 +1,2594 @@
+{
+ "Lesson 1": {
+    "Part 2": [
+       {
+          "vocab": "是",
+          "pinyin": "shì",
+          "part_of_speech": "v",
+          "definition": "to be [See Grammar 5]"
+       },
+       {
+          "vocab": "老师",
+          "pinyin": "lǎoshī",
+          "part_of_speech": "n",
+          "definition": "teacher"
+       },
+       {
+          "vocab": "吗",
+          "pinyin": "ma",
+          "part_of_speech": "qp",
+          "definition": "question particle [See Grammar 6]"
+       },
+       {
+          "vocab": "不",
+          "pinyin": "bù",
+          "part_of_speech": "adv",
+          "definition": "not, no [See Grammar 7]"
+       },
+       {
+          "vocab": "学生",
+          "pinyin": "xuésheng",
+          "part_of_speech": "n",
+          "definition": "student"
+       },
+       {
+          "vocab": "也",
+          "pinyin": "yě",
+          "part_of_speech": "adv",
+          "definition": "too, also [See Grammar 8]"
+       },
+       {
+          "vocab": "人",
+          "pinyin": "rén",
+          "part_of_speech": "n",
+          "definition": "people, person"
+       },
+       {
+          "vocab": "中国",
+          "pinyin": "Zhōngguó",
+          "part_of_speech": "pn",
+          "definition": "China"
+       },
+       {
+          "vocab": "北京",
+          "pinyin": "Běijīng",
+          "part_of_speech": "pn",
+          "definition": "Beijing"
+       },
+       {
+          "vocab": "美国",
+          "pinyin": "Měiguó",
+          "part_of_speech": "pn",
+          "definition": "America"
+       },
+       {
+          "vocab": "纽约",
+          "pinyin": "Niǔyuē",
+          "part_of_speech": "pn",
+          "definition": "New York"
+       }
+    ],
+    "Part 1": [
+       {
+          "vocab": "你",
+          "pinyin": "nǐ",
+          "part_of_speech": "pr",
+          "definition": "you"
+       },
+       {
+          "vocab": "好",
+          "pinyin": "hǎo",
+          "part_of_speech": "adj",
+          "definition": "fine, good, nice, OK, it's settled"
+       },
+       {
+          "vocab": "请",
+          "pinyin": "qǐng",
+          "part_of_speech": "v",
+          "definition": "please (polite form of request), to treat or to invite (somebody)"
+       },
+       {
+          "vocab": "问",
+          "pinyin": "wèn",
+          "part_of_speech": "v",
+          "definition": "to ask (a question)"
+       },
+       {
+          "vocab": "贵",
+          "pinyin": "guì",
+          "part_of_speech": "adj",
+          "definition": "honorable, expensive"
+       },
+       {
+          "vocab": "姓",
+          "pinyin": "xìng",
+          "part_of_speech": "v/n",
+          "definition": "(one's) family name is...; family name [See Grammar 1]"
+       },
+       {
+          "vocab": "我",
+          "pinyin": "wǒ",
+          "part_of_speech": "pr",
+          "definition": "I, me"
+       },
+       {
+          "vocab": "小姐",
+          "pinyin": "xiǎojiě",
+          "part_of_speech": "n",
+          "definition": "Miss, young lady"
+       },
+       {
+          "vocab": "叫",
+          "pinyin": "jiào",
+          "part_of_speech": "v",
+          "definition": "to be called, to call [See Grammar 3]"
+       },
+       {
+          "vocab": "什么",
+          "pinyin": "shénme",
+          "part_of_speech": "qpr",
+          "definition": "what"
+       },
+       {
+          "vocab": "名字",
+          "pinyin": "míngzi",
+          "part_of_speech": "n",
+          "definition": "name"
+       },
+       {
+          "vocab": "先生",
+          "pinyin": "xiānsheng",
+          "part_of_speech": "n",
+          "definition": "Mr., husband, teacher"
+       },
+       {
+          "vocab": "李友",
+          "pinyin": "Lǐ Yǒu",
+          "part_of_speech": "pn",
+          "definition": "(a personal name)"
+       },
+       {
+          "vocab": "李",
+          "pinyin": "Lǐ",
+          "part_of_speech": "pn/n",
+          "definition": "(a family name); plum"
+       },
+       {
+          "vocab": "王朋",
+          "pinyin": "Wáng Péng",
+          "part_of_speech": "pn",
+          "definition": "(a personal name)"
+       },
+       {
+          "vocab": "王",
+          "pinyin": "Wáng",
+          "part_of_speech": "pn/n",
+          "definition": "(a family name); king"
+       }
+    ]
+ },
+ "Lesson 2": {
+    "Part 1": [
+       {
+          "vocab": "那",
+          "pinyin": "nà",
+          "part_of_speech": "pr",
+          "definition": "that"
+       },
+       {
+          "vocab": "的",
+          "pinyin": "de",
+          "part_of_speech": "p",
+          "definition": "(a possessive or descriptive particle) [See Grammar 1]"
+       },
+       {
+          "vocab": "照片",
+          "pinyin": "zhàopiàn",
+          "part_of_speech": "n",
+          "definition": "picture, photo"
+       },
+       {
+          "vocab": "这",
+          "pinyin": "zhè",
+          "part_of_speech": "pr",
+          "definition": "this"
+       },
+       {
+          "vocab": "爸爸",
+          "pinyin": "bàba",
+          "part_of_speech": "n",
+          "definition": "father, dad"
+       },
+       {
+          "vocab": "妈妈",
+          "pinyin": "māma",
+          "part_of_speech": "n",
+          "definition": "mother, mom"
+       },
+       {
+          "vocab": "个",
+          "pinyin": "gè/ge",
+          "part_of_speech": "m",
+          "definition": "(measure word for many common everyday objects) [See Grammar 2]"
+       },
+       {
+          "vocab": "女",
+          "pinyin": "nǚ",
+          "part_of_speech": "adj",
+          "definition": "female"
+       },
+       {
+          "vocab": "孩子",
+          "pinyin": "háizi",
+          "part_of_speech": "n",
+          "definition": "child"
+       },
+       {
+          "vocab": "谁",
+          "pinyin": "shéi",
+          "part_of_speech": "qpr",
+          "definition": "who, whom [See Grammar 3]"
+       },
+       {
+          "vocab": "她",
+          "pinyin": "tā",
+          "part_of_speech": "pr",
+          "definition": "she, her"
+       },
+       {
+          "vocab": "姐姐",
+          "pinyin": "jiějie",
+          "part_of_speech": "n",
+          "definition": "older sister"
+       },
+       {
+          "vocab": "男",
+          "pinyin": "nán",
+          "part_of_speech": "adj",
+          "definition": "male"
+       },
+       {
+          "vocab": "弟弟",
+          "pinyin": "dìdi",
+          "part_of_speech": "n",
+          "definition": "younger brother"
+       },
+       {
+          "vocab": "他",
+          "pinyin": "tā",
+          "part_of_speech": "pr",
+          "definition": "he, him"
+       },
+       {
+          "vocab": "大哥",
+          "pinyin": "dàgē",
+          "part_of_speech": "n",
+          "definition": "eldest/oldest brother"
+       },
+       {
+          "vocab": "儿子",
+          "pinyin": "érzi",
+          "part_of_speech": "n",
+          "definition": "son"
+       },
+       {
+          "vocab": "有",
+          "pinyin": "yǒu",
+          "part_of_speech": "v",
+          "definition": "to have, to exist [See Grammar 4 and Grammar 5]"
+       },
+       {
+          "vocab": "女儿",
+          "pinyin": "nǚ'ér",
+          "part_of_speech": "n",
+          "definition": "daughter"
+       },
+       {
+          "vocab": "没",
+          "pinyin": "méi",
+          "part_of_speech": "adv",
+          "definition": "not"
+       },
+       {
+          "vocab": "高文中",
+          "pinyin": "Gāo Wénzhōng",
+          "part_of_speech": "pn",
+          "definition": "(a personal name)"
+       },
+       {
+          "vocab": "高",
+          "pinyin": "gāo",
+          "part_of_speech": "pn/adj",
+          "definition": "(a family name); tall, high"
+       }
+    ],
+    "Part 2": [
+       {
+          "vocab": "家",
+          "pinyin": "jiā",
+          "part_of_speech": "n",
+          "definition": "family, home"
+       },
+       {
+          "vocab": "几",
+          "pinyin": "jǐ",
+          "part_of_speech": "nu",
+          "definition": "how many, some, a few"
+       },
+       {
+          "vocab": "口",
+          "pinyin": "kǒu",
+          "part_of_speech": "m",
+          "definition": "(measure word for number of family members)"
+       },
+       {
+          "vocab": "哥哥",
+          "pinyin": "gēge",
+          "part_of_speech": "n",
+          "definition": "older brother"
+       },
+       {
+          "vocab": "两",
+          "pinyin": "liǎng",
+          "part_of_speech": "nu",
+          "definition": "two, a couple of [See Grammar 6]"
+       },
+       {
+          "vocab": "妹妹",
+          "pinyin": "mèimei",
+          "part_of_speech": "n",
+          "definition": "younger sister"
+       },
+       {
+          "vocab": "和",
+          "pinyin": "hé",
+          "part_of_speech": "conj",
+          "definition": "and"
+       },
+       {
+          "vocab": "大姐",
+          "pinyin": "dàjiě",
+          "part_of_speech": "n",
+          "definition": "eldest/oldest sister"
+       },
+       {
+          "vocab": "二姐",
+          "pinyin": "èrjiě",
+          "part_of_speech": "n",
+          "definition": "second oldest sister"
+       },
+       {
+          "vocab": "做",
+          "pinyin": "zuò",
+          "part_of_speech": "v",
+          "definition": "to do"
+       },
+       {
+          "vocab": "工作",
+          "pinyin": "gōngzuò",
+          "part_of_speech": "n/v",
+          "definition": "job; to work"
+       },
+       {
+          "vocab": "律师",
+          "pinyin": "lǜshī",
+          "part_of_speech": "n",
+          "definition": "lawyer"
+       },
+       {
+          "vocab": "英文",
+          "pinyin": "Yīngwén",
+          "part_of_speech": "n",
+          "definition": "the English language"
+       },
+       {
+          "vocab": "都",
+          "pinyin": "dōu",
+          "part_of_speech": "adv",
+          "definition": "both, all [See Grammar 7]"
+       },
+       {
+          "vocab": "大学生",
+          "pinyin": "dàxuéshēng",
+          "part_of_speech": "n",
+          "definition": "college student"
+       },
+       {
+          "vocab": "大学",
+          "pinyin": "dàxué",
+          "part_of_speech": "n",
+          "definition": "university, college"
+       },
+       {
+          "vocab": "医生",
+          "pinyin": "yīshēng",
+          "part_of_speech": "n",
+          "definition": "doctor, physician"
+       },
+       {
+          "vocab": "白英爱",
+          "pinyin": "Bái Yīng'ài",
+          "part_of_speech": "pn",
+          "definition": "(a personal name)"
+       }
+    ]
+ },
+ "Lesson 3": {
+    "Part 1": [
+       {
+          "vocab": "九月",
+          "pinyin": "jiǔyuè",
+          "part_of_speech": "n",
+          "definition": "September"
+       },
+       {
+          "vocab": "月",
+          "pinyin": "yuè",
+          "part_of_speech": "n",
+          "definition": "month"
+       },
+       {
+          "vocab": "十二",
+          "pinyin": "shí'èr",
+          "part_of_speech": "nu",
+          "definition": "twelve"
+       },
+       {
+          "vocab": "号",
+          "pinyin": "hào",
+          "part_of_speech": "m",
+          "definition": "(measure word for position in a numerical series, day of the month)"
+       },
+       {
+          "vocab": "星期",
+          "pinyin": "xīngqī",
+          "part_of_speech": "n",
+          "definition": "week"
+       },
+       {
+          "vocab": "星期四",
+          "pinyin": "xīngqīsì",
+          "part_of_speech": "n",
+          "definition": "Thursday"
+       },
+       {
+          "vocab": "天",
+          "pinyin": "tiān",
+          "part_of_speech": "n",
+          "definition": "day"
+       },
+       {
+          "vocab": "生日",
+          "pinyin": "shēngrì",
+          "part_of_speech": "n",
+          "definition": "birthday"
+       },
+       {
+          "vocab": "生",
+          "pinyin": "shēng",
+          "part_of_speech": "v",
+          "definition": "to give birth to, to be born"
+       },
+       {
+          "vocab": "今年",
+          "pinyin": "jīnnián",
+          "part_of_speech": "t",
+          "definition": "this year"
+       },
+       {
+          "vocab": "年",
+          "pinyin": "nián",
+          "part_of_speech": "n",
+          "definition": "year"
+       },
+       {
+          "vocab": "多",
+          "pinyin": "duō",
+          "part_of_speech": "adv",
+          "definition": "how many/much, to what extent"
+       },
+       {
+          "vocab": "大",
+          "pinyin": "dà",
+          "part_of_speech": "adj",
+          "definition": "big, old"
+       },
+       {
+          "vocab": "十八",
+          "pinyin": "shíbā",
+          "part_of_speech": "nu",
+          "definition": "eighteen"
+       },
+       {
+          "vocab": "岁",
+          "pinyin": "suì",
+          "part_of_speech": "n",
+          "definition": "year (of age)"
+       },
+       {
+          "vocab": "吃",
+          "pinyin": "chī",
+          "part_of_speech": "v",
+          "definition": "to eat"
+       },
+       {
+          "vocab": "饭",
+          "pinyin": "fàn",
+          "part_of_speech": "n",
+          "definition": "meal, (cooked) rice"
+       },
+       {
+          "vocab": "怎么样",
+          "pinyin": "zěnmeyàng",
+          "part_of_speech": "qpr",
+          "definition": "Is it OK? How is that? How does that sound?"
+       },
+       {
+          "vocab": "太...了",
+          "pinyin": "tài...le",
+          "part_of_speech": "adv",
+          "definition": "too, extremely"
+       },
+       {
+          "vocab": "谢谢",
+          "pinyin": "xièxie",
+          "part_of_speech": "v",
+          "definition": "to thank"
+       },
+       {
+          "vocab": "喜欢",
+          "pinyin": "xǐhuan",
+          "part_of_speech": "v",
+          "definition": "to like"
+       },
+       {
+          "vocab": "菜",
+          "pinyin": "cài",
+          "part_of_speech": "n",
+          "definition": "dish, cuisine"
+       },
+       {
+          "vocab": "还是",
+          "pinyin": "háishì",
+          "part_of_speech": "conj",
+          "definition": "or [See Grammar 6]"
+       },
+       {
+          "vocab": "可是",
+          "pinyin": "kěshì",
+          "part_of_speech": "conj",
+          "definition": "but"
+       },
+       {
+          "vocab": "我们",
+          "pinyin": "wǒmen",
+          "part_of_speech": "pr",
+          "definition": "we, us"
+       },
+       {
+          "vocab": "点",
+          "pinyin": "diǎn",
+          "part_of_speech": "m",
+          "definition": "o'clock (lit. dot, point, thus 'points on the clock')"
+       },
+       {
+          "vocab": "半",
+          "pinyin": "bàn",
+          "part_of_speech": "nu",
+          "definition": "half, half an hour"
+       },
+       {
+          "vocab": "晚上",
+          "pinyin": "wǎnshang",
+          "part_of_speech": "t",
+          "definition": "evening, night"
+       },
+       {
+          "vocab": "见",
+          "pinyin": "jiàn",
+          "part_of_speech": "v",
+          "definition": "to see"
+       },
+       {
+          "vocab": "再见",
+          "pinyin": "zàijiàn",
+          "part_of_speech": "v",
+          "definition": "goodbye, see you again"
+       },
+       {
+          "vocab": "再",
+          "pinyin": "zài",
+          "part_of_speech": "adv",
+          "definition": "again"
+       },
+       {
+          "vocab": "英国",
+          "pinyin": "Yīngguó",
+          "part_of_speech": "pn",
+          "definition": "Britain"
+       }
+    ],
+    "Part 2": [
+       {
+          "vocab": "现在",
+          "pinyin": "xiànzài",
+          "part_of_speech": "t",
+          "definition": "now"
+       },
+       {
+          "vocab": "刻",
+          "pinyin": "kè",
+          "part_of_speech": "m",
+          "definition": "quarter (of an hour)"
+       },
+       {
+          "vocab": "事(儿)",
+          "pinyin": "shì(r)",
+          "part_of_speech": "n",
+          "definition": "matter, affair, event"
+       },
+       {
+          "vocab": "今天",
+          "pinyin": "jīntiān",
+          "part_of_speech": "t",
+          "definition": "today"
+       },
+       {
+          "vocab": "很",
+          "pinyin": "hěn",
+          "part_of_speech": "adv",
+          "definition": "very"
+       },
+       {
+          "vocab": "忙",
+          "pinyin": "máng",
+          "part_of_speech": "adj",
+          "definition": "busy"
+       },
+       {
+          "vocab": "明天",
+          "pinyin": "míngtiān",
+          "part_of_speech": "t",
+          "definition": "tomorrow"
+       },
+       {
+          "vocab": "晚饭",
+          "pinyin": "wǎnfàn",
+          "part_of_speech": "n",
+          "definition": "dinner, supper"
+       },
+       {
+          "vocab": "为什么",
+          "pinyin": "wèishénme",
+          "part_of_speech": "qpr",
+          "definition": "why"
+       },
+       {
+          "vocab": "为",
+          "pinyin": "wèi",
+          "part_of_speech": "prep",
+          "definition": "for"
+       },
+       {
+          "vocab": "因为",
+          "pinyin": "yīnwèi",
+          "part_of_speech": "conj",
+          "definition": "because"
+       },
+       {
+          "vocab": "还",
+          "pinyin": "hái",
+          "part_of_speech": "adv",
+          "definition": "also, too, as well [See Grammar 8]"
+       },
+       {
+          "vocab": "同学",
+          "pinyin": "tóngxué",
+          "part_of_speech": "n",
+          "definition": "classmate"
+       },
+       {
+          "vocab": "认识",
+          "pinyin": "rènshi",
+          "part_of_speech": "v",
+          "definition": "to be acquainted with, to recognize"
+       },
+       {
+          "vocab": "朋友",
+          "pinyin": "péngyou",
+          "part_of_speech": "n",
+          "definition": "friend"
+       }
+    ]
+ },
+ "Lesson 4": {
+    "Part 1": [
+       {
+          "vocab": "周末",
+          "pinyin": "zhōumò",
+          "part_of_speech": "n",
+          "definition": "weekend"
+       },
+       {
+          "vocab": "打球",
+          "pinyin": "dǎ qiú",
+          "part_of_speech": "vo",
+          "definition": "to play ball"
+       },
+       {
+          "vocab": "打",
+          "pinyin": "dǎ",
+          "part_of_speech": "v",
+          "definition": "to hit"
+       },
+       {
+          "vocab": "球",
+          "pinyin": "qiú",
+          "part_of_speech": "n",
+          "definition": "ball"
+       },
+       {
+          "vocab": "看",
+          "pinyin": "kàn",
+          "part_of_speech": "v",
+          "definition": "to watch, to look, to read"
+       },
+       {
+          "vocab": "电视",
+          "pinyin": "diànshì",
+          "part_of_speech": "n",
+          "definition": "television"
+       },
+       {
+          "vocab": "电",
+          "pinyin": "diàn",
+          "part_of_speech": "n",
+          "definition": "electricity"
+       },
+       {
+          "vocab": "视",
+          "pinyin": "shì",
+          "part_of_speech": "n",
+          "definition": "vision"
+       },
+       {
+          "vocab": "唱歌(儿)",
+          "pinyin": "chàng gē(r)",
+          "part_of_speech": "vo",
+          "definition": "to sing (a song)"
+       },
+       {
+          "vocab": "唱",
+          "pinyin": "chàng",
+          "part_of_speech": "v",
+          "definition": "to sing"
+       },
+       {
+          "vocab": "歌",
+          "pinyin": "gē",
+          "part_of_speech": "n",
+          "definition": "song"
+       },
+       {
+          "vocab": "跳舞",
+          "pinyin": "tiào wǔ",
+          "part_of_speech": "vo",
+          "definition": "to dance"
+       },
+       {
+          "vocab": "跳",
+          "pinyin": "tiào",
+          "part_of_speech": "v",
+          "definition": "to jump"
+       },
+       {
+          "vocab": "舞",
+          "pinyin": "wǔ",
+          "part_of_speech": "n",
+          "definition": "dance"
+       },
+       {
+          "vocab": "听",
+          "pinyin": "tīng",
+          "part_of_speech": "v",
+          "definition": "to listen"
+       },
+       {
+          "vocab": "音乐",
+          "pinyin": "yīnyuè",
+          "part_of_speech": "n",
+          "definition": "music"
+       },
+       {
+          "vocab": "书",
+          "pinyin": "shū",
+          "part_of_speech": "n",
+          "definition": "book"
+       },
+       {
+          "vocab": "对",
+          "pinyin": "duì",
+          "part_of_speech": "adj",
+          "definition": "right, correct"
+       },
+       {
+          "vocab": "有的",
+          "pinyin": "yǒude",
+          "part_of_speech": "pr",
+          "definition": "some"
+       },
+       {
+          "vocab": "时候",
+          "pinyin": "shíhou",
+          "part_of_speech": "n",
+          "definition": "(a point in) time, moment; (a duration of) time"
+       },
+       {
+          "vocab": "电影",
+          "pinyin": "diànyǐng",
+          "part_of_speech": "n",
+          "definition": "movie"
+       },
+       {
+          "vocab": "影",
+          "pinyin": "yǐng",
+          "part_of_speech": "n",
+          "definition": "shadow"
+       },
+       {
+          "vocab": "常常",
+          "pinyin": "chángcháng",
+          "part_of_speech": "adv",
+          "definition": "often"
+       },
+       {
+          "vocab": "那",
+          "pinyin": "nà",
+          "part_of_speech": "conj",
+          "definition": "in that case, then"
+       },
+       {
+          "vocab": "去",
+          "pinyin": "qù",
+          "part_of_speech": "v",
+          "definition": "to go"
+       },
+       {
+          "vocab": "外国",
+          "pinyin": "wàiguó",
+          "part_of_speech": "n",
+          "definition": "foreign country"
+       },
+       {
+          "vocab": "请客",
+          "pinyin": "qǐng kè",
+          "part_of_speech": "vo",
+          "definition": "to invite someone (to dinner, coffee, etc.), to play the host"
+       },
+       {
+          "vocab": "昨天",
+          "pinyin": "zuótiān",
+          "part_of_speech": "t",
+          "definition": "yesterday"
+       },
+       {
+          "vocab": "所以",
+          "pinyin": "suǒyǐ",
+          "part_of_speech": "conj",
+          "definition": "so"
+       }
+    ],
+    "Part 2": [
+       {
+          "vocab": "小",
+          "pinyin": "xiǎo",
+          "part_of_speech": "adj",
+          "definition": "small, little"
+       },
+       {
+          "vocab": "好久",
+          "pinyin": "hǎo jiǔ",
+          "part_of_speech": "adj",
+          "definition": "a long time"
+       },
+       {
+          "vocab": "好",
+          "pinyin": "hǎo",
+          "part_of_speech": "adv",
+          "definition": "very"
+       },
+       {
+          "vocab": "久",
+          "pinyin": "jiǔ",
+          "part_of_speech": "adj",
+          "definition": "long (of time)"
+       },
+       {
+          "vocab": "不错",
+          "pinyin": "bùcuò",
+          "part_of_speech": "adj",
+          "definition": "pretty good"
+       },
+       {
+          "vocab": "错",
+          "pinyin": "cuò",
+          "part_of_speech": "adj",
+          "definition": "wrong"
+       },
+       {
+          "vocab": "想",
+          "pinyin": "xiǎng",
+          "part_of_speech": "mv",
+          "definition": "to want to, would like to [See Grammar 6]"
+       },
+       {
+          "vocab": "觉得",
+          "pinyin": "juéde",
+          "part_of_speech": "v",
+          "definition": "to feel, to think [See Grammar 6]"
+       },
+       {
+          "vocab": "有意思",
+          "pinyin": "yǒu yìsi",
+          "part_of_speech": "adj",
+          "definition": "interesting"
+       },
+       {
+          "vocab": "意思",
+          "pinyin": "yìsi",
+          "part_of_speech": "n",
+          "definition": "meaning"
+       },
+       {
+          "vocab": "只",
+          "pinyin": "zhǐ",
+          "part_of_speech": "adv",
+          "definition": "only"
+       },
+       {
+          "vocab": "睡觉",
+          "pinyin": "shuì jiào",
+          "part_of_speech": "vo",
+          "definition": "to sleep"
+       },
+       {
+          "vocab": "睡",
+          "pinyin": "shuì",
+          "part_of_speech": "v",
+          "definition": "to sleep"
+       },
+       {
+          "vocab": "觉",
+          "pinyin": "jiào",
+          "part_of_speech": "n",
+          "definition": "sleep"
+       },
+       {
+          "vocab": "算了",
+          "pinyin": "suàn le",
+          "part_of_speech": "ce",
+          "definition": "forget it, never mind"
+       },
+       {
+          "vocab": "找",
+          "pinyin": "zhǎo",
+          "part_of_speech": "v",
+          "definition": "to look for"
+       },
+       {
+          "vocab": "别人",
+          "pinyin": "biérén",
+          "part_of_speech": "n",
+          "definition": "other people, another person"
+       },
+       {
+          "vocab": "别(的)",
+          "pinyin": "bié(de)",
+          "part_of_speech": "adj",
+          "definition": "other"
+       }
+    ]
+ },
+ "Lesson 5": {
+    "Part 1": [
+       {
+          "vocab": "呀",
+          "pinyin": "ya",
+          "part_of_speech": "p",
+          "definition": "(interjectory particle used to soften a question)"
+       },
+       {
+          "vocab": "进",
+          "pinyin": "jìn",
+          "part_of_speech": "v",
+          "definition": "to enter"
+       },
+       {
+          "vocab": "快",
+          "pinyin": "kuài",
+          "part_of_speech": "adv/adj",
+          "definition": "fast, quick; quickly"
+       },
+       {
+          "vocab": "进来",
+          "pinyin": "jìn lái",
+          "part_of_speech": "vc",
+          "definition": "to come in"
+       },
+       {
+          "vocab": "来",
+          "pinyin": "lái",
+          "part_of_speech": "v",
+          "definition": "to come"
+       },
+       {
+          "vocab": "介绍",
+          "pinyin": "jièshào",
+          "part_of_speech": "v",
+          "definition": "to introduce"
+       },
+       {
+          "vocab": "一下",
+          "pinyin": "yí xià",
+          "part_of_speech": "n+m",
+          "definition": "once, a bit [See Grammar 1]"
+       },
+       {
+          "vocab": "高兴",
+          "pinyin": "gāoxìng",
+          "part_of_speech": "adj",
+          "definition": "happy, pleased"
+       },
+       {
+          "vocab": "漂亮",
+          "pinyin": "piàoliang",
+          "part_of_speech": "adj",
+          "definition": "pretty"
+       },
+       {
+          "vocab": "在",
+          "pinyin": "zài",
+          "part_of_speech": "prep",
+          "definition": "at, in, on [See Grammar 3]"
+       },
+       {
+          "vocab": "哪儿",
+          "pinyin": "nǎr",
+          "part_of_speech": "qpr",
+          "definition": "where"
+       },
+       {
+          "vocab": "学校",
+          "pinyin": "xuéxiào",
+          "part_of_speech": "n",
+          "definition": "school"
+       },
+       {
+          "vocab": "喝",
+          "pinyin": "hē",
+          "part_of_speech": "v",
+          "definition": "to drink"
+       },
+       {
+          "vocab": "点(儿)",
+          "pinyin": "diǎn(r)",
+          "part_of_speech": "m",
+          "definition": "a little, a bit, some [See Grammar 1]"
+       },
+       {
+          "vocab": "茶",
+          "pinyin": "chá",
+          "part_of_speech": "n",
+          "definition": "tea"
+       },
+       {
+          "vocab": "咖啡",
+          "pinyin": "kāfēi",
+          "part_of_speech": "n",
+          "definition": "coffee"
+       },
+       {
+          "vocab": "吧",
+          "pinyin": "ba",
+          "part_of_speech": "p",
+          "definition": "(a sentence-final particle) [See Grammar 4]"
+       },
+       {
+          "vocab": "要",
+          "pinyin": "yào",
+          "part_of_speech": "v",
+          "definition": "to want"
+       },
+       {
+          "vocab": "瓶",
+          "pinyin": "píng",
+          "part_of_speech": "m",
+          "definition": "(measure word for bottled liquid, etc.)"
+       },
+       {
+          "vocab": "可乐",
+          "pinyin": "kělè",
+          "part_of_speech": "n",
+          "definition": "cola"
+       },
+       {
+          "vocab": "可以",
+          "pinyin": "kěyǐ",
+          "part_of_speech": "mv",
+          "definition": "can, may"
+       },
+       {
+          "vocab": "对不起",
+          "pinyin": "duìbuqǐ",
+          "part_of_speech": "v",
+          "definition": "sorry"
+       },
+       {
+          "vocab": "给",
+          "pinyin": "gěi",
+          "part_of_speech": "v",
+          "definition": "to give"
+       },
+       {
+          "vocab": "杯",
+          "pinyin": "bēi",
+          "part_of_speech": "m",
+          "definition": "(measure word for things contained in a cup or glass)"
+       },
+       {
+          "vocab": "水",
+          "pinyin": "shuǐ",
+          "part_of_speech": "n",
+          "definition": "water"
+       },
+       {
+          "vocab": "高小音",
+          "pinyin": "Gāo Xiǎoyīn",
+          "part_of_speech": "pn",
+          "definition": "(a personal name)"
+       }
+    ],
+    "Part 2": [
+       {
+          "vocab": "玩(儿)",
+          "pinyin": "wán(r)",
+          "part_of_speech": "v",
+          "definition": "to have fun, to play"
+       },
+       {
+          "vocab": "了",
+          "pinyin": "le",
+          "part_of_speech": "p",
+          "definition": "(a dynamic particle) [See Grammar 5]"
+       },
+       {
+          "vocab": "图书馆",
+          "pinyin": "túshūguǎn",
+          "part_of_speech": "n",
+          "definition": "library"
+       },
+       {
+          "vocab": "一起",
+          "pinyin": "yìqǐ",
+          "part_of_speech": "adv",
+          "definition": "together"
+       },
+       {
+          "vocab": "聊天(儿)",
+          "pinyin": "liáo tiān(r)",
+          "part_of_speech": "vo",
+          "definition": "to chat"
+       },
+       {
+          "vocab": "天",
+          "pinyin": "tiān",
+          "part_of_speech": "n",
+          "definition": "sky"
+       },
+       {
+          "vocab": "才",
+          "pinyin": "cái",
+          "part_of_speech": "adv",
+          "definition": "not until, only then [See Grammar 6]"
+       },
+       {
+          "vocab": "回家",
+          "pinyin": "huí jiā",
+          "part_of_speech": "vo",
+          "definition": "to go home"
+       },
+       {
+          "vocab": "回",
+          "pinyin": "huí",
+          "part_of_speech": "v",
+          "definition": "to return"
+       }
+    ]
+ },
+ "Lesson 6": {
+    "Part 1": [
+       {
+          "vocab": "给",
+          "pinyin": "gěi",
+          "part_of_speech": "prep",
+          "definition": "to, for [See Grammar 1]"
+       },
+       {
+          "vocab": "打电话",
+          "pinyin": "dǎ diànhuà",
+          "part_of_speech": "vo",
+          "definition": "to make a phone call"
+       },
+       {
+          "vocab": "电话",
+          "pinyin": "diànhuà",
+          "part_of_speech": "n",
+          "definition": "telephone"
+       },
+       {
+          "vocab": "喂",
+          "pinyin": "wéi/wèi",
+          "part_of_speech": "interj",
+          "definition": "(on the phone) Hello!, Hey!"
+       },
+       {
+          "vocab": "在",
+          "pinyin": "zài",
+          "part_of_speech": "v",
+          "definition": "to be present, to be at (a place)"
+       },
+       {
+          "vocab": "就",
+          "pinyin": "jiù",
+          "part_of_speech": "adv",
+          "definition": "precisely, exactly"
+       },
+       {
+          "vocab": "您",
+          "pinyin": "nín",
+          "part_of_speech": "pr",
+          "definition": "you (honorific for 你)"
+       },
+       {
+          "vocab": "哪/哪位",
+          "pinyin": "nǎ/nǎ wèi",
+          "part_of_speech": "qpr/m",
+          "definition": "which (polite measure word for people)"
+       },
+       {
+          "vocab": "下午",
+          "pinyin": "xiàwǔ",
+          "part_of_speech": "t",
+          "definition": "afternoon"
+       },
+       {
+          "vocab": "时间",
+          "pinyin": "shíjiān",
+          "part_of_speech": "n",
+          "definition": "time"
+       },
+       {
+          "vocab": "问题",
+          "pinyin": "wèntí",
+          "part_of_speech": "n",
+          "definition": "question, problem"
+       },
+       {
+          "vocab": "要",
+          "pinyin": "yào",
+          "part_of_speech": "mv",
+          "definition": "will, to be going to, to want to, to have a desire to"
+       },
+       {
+          "vocab": "开会",
+          "pinyin": "kāi huì",
+          "part_of_speech": "vo",
+          "definition": "to have a meeting"
+       },
+       {
+          "vocab": "开",
+          "pinyin": "kāi",
+          "part_of_speech": "v",
+          "definition": "to open, to hold (a meeting, party, etc.)"
+       },
+       {
+          "vocab": "会",
+          "pinyin": "huì",
+          "part_of_speech": "n",
+          "definition": "meeting"
+       },
+       {
+          "vocab": "上午",
+          "pinyin": "shàngwǔ",
+          "part_of_speech": "t",
+          "definition": "morning"
+       },
+       {
+          "vocab": "节",
+          "pinyin": "jié",
+          "part_of_speech": "m",
+          "definition": "(measure word for class periods)"
+       },
+       {
+          "vocab": "课",
+          "pinyin": "kè",
+          "part_of_speech": "n",
+          "definition": "class, course, lesson"
+       },
+       {
+          "vocab": "年级",
+          "pinyin": "niánjí",
+          "part_of_speech": "n",
+          "definition": "grade in school"
+       },
+       {
+          "vocab": "考试",
+          "pinyin": "kǎo shì",
+          "part_of_speech": "vo/n",
+          "definition": "to give or take a test; test"
+       },
+       {
+          "vocab": "考",
+          "pinyin": "kǎo",
+          "part_of_speech": "v",
+          "definition": "to give or take a test"
+       },
+       {
+          "vocab": "试",
+          "pinyin": "shì",
+          "part_of_speech": "n/v",
+          "definition": "test, to try, to experiment"
+       },
+       {
+          "vocab": "以后",
+          "pinyin": "yǐhòu",
+          "part_of_speech": "t",
+          "definition": "after, from now on, later on"
+       },
+       {
+          "vocab": "空(儿)",
+          "pinyin": "kòng(r)",
+          "part_of_speech": "n",
+          "definition": "free time"
+       },
+       {
+          "vocab": "要是",
+          "pinyin": "yàoshi",
+          "part_of_speech": "conj",
+          "definition": "if"
+       },
+       {
+          "vocab": "方便",
+          "pinyin": "fāngbiàn",
+          "part_of_speech": "adj",
+          "definition": "convenient"
+       },
+       {
+          "vocab": "到",
+          "pinyin": "dào",
+          "part_of_speech": "v",
+          "definition": "to go to, to arrive"
+       },
+       {
+          "vocab": "办公室",
+          "pinyin": "bàngōngshì",
+          "part_of_speech": "n",
+          "definition": "office"
+       },
+       {
+          "vocab": "行",
+          "pinyin": "xíng",
+          "part_of_speech": "v",
+          "definition": "all right, OK"
+       },
+       {
+          "vocab": "等",
+          "pinyin": "děng",
+          "part_of_speech": "v",
+          "definition": "to wait, to wait for"
+       },
+       {
+          "vocab": "别",
+          "pinyin": "bié",
+          "part_of_speech": "adv",
+          "definition": "don’t [See Grammar 3]"
+       },
+       {
+          "vocab": "客气",
+          "pinyin": "kèqi",
+          "part_of_speech": "adj",
+          "definition": "polite"
+       },
+       {
+          "vocab": "常老师",
+          "pinyin": "Cháng lǎoshī",
+          "part_of_speech": "pn",
+          "definition": "Teacher Chang"
+       }
+    ],
+    "Part 2": [
+       {
+          "vocab": "下个",
+          "pinyin": "xià ge",
+          "part_of_speech": "n",
+          "definition": "next"
+       },
+       {
+          "vocab": "下",
+          "pinyin": "xià",
+          "part_of_speech": "adj",
+          "definition": "below, next"
+       },
+       {
+          "vocab": "中文",
+          "pinyin": "Zhōngwén",
+          "part_of_speech": "n",
+          "definition": "Chinese language"
+       },
+       {
+          "vocab": "文",
+          "pinyin": "wén",
+          "part_of_speech": "n",
+          "definition": "language, script, written language"
+       },
+       {
+          "vocab": "帮",
+          "pinyin": "bāng",
+          "part_of_speech": "v",
+          "definition": "to help"
+       },
+       {
+          "vocab": "准备",
+          "pinyin": "zhǔnbèi",
+          "part_of_speech": "v",
+          "definition": "to prepare"
+       },
+       {
+          "vocab": "练习",
+          "pinyin": "liànxí",
+          "part_of_speech": "v",
+          "definition": "to practice"
+       },
+       {
+          "vocab": "说",
+          "pinyin": "shuō",
+          "part_of_speech": "v",
+          "definition": "to say, to speak"
+       },
+       {
+          "vocab": "啊",
+          "pinyin": "a",
+          "part_of_speech": "p",
+          "definition": "(a sentence-final particle of exclamation, interrogation, etc.)"
+       },
+       {
+          "vocab": "但是",
+          "pinyin": "dànshì",
+          "part_of_speech": "conj",
+          "definition": "but"
+       },
+       {
+          "vocab": "得",
+          "pinyin": "děi",
+          "part_of_speech": "av",
+          "definition": "must, to have to"
+       },
+       {
+          "vocab": "跟",
+          "pinyin": "gēn",
+          "part_of_speech": "prep",
+          "definition": "with"
+       },
+       {
+          "vocab": "见面",
+          "pinyin": "jiàn miàn",
+          "part_of_speech": "vo",
+          "definition": "to meet up, to meet with"
+       },
+       {
+          "vocab": "面",
+          "pinyin": "miàn",
+          "part_of_speech": "n",
+          "definition": "face"
+       },
+       {
+          "vocab": "回来",
+          "pinyin": "huí lai",
+          "part_of_speech": "vc",
+          "definition": "to come back"
+       }
+    ]
+ },
+ "Lesson 7": {
+    "Part 1": [
+       {
+          "vocab": "说话",
+          "pinyin": "shuō huà",
+          "part_of_speech": "vo",
+          "definition": "to talk"
+       },
+       {
+          "vocab": "话",
+          "pinyin": "huà",
+          "part_of_speech": "n",
+          "definition": "word, speech"
+       },
+       {
+          "vocab": "上个",
+          "pinyin": "shàng ge",
+          "part_of_speech": "n",
+          "definition": "previous, last"
+       },
+       {
+          "vocab": "得",
+          "pinyin": "de",
+          "part_of_speech": "p",
+          "definition": "(a structural particle) [See Grammar 1]"
+       },
+       {
+          "vocab": "复习",
+          "pinyin": "fùxí",
+          "part_of_speech": "v",
+          "definition": "to review"
+       },
+       {
+          "vocab": "写",
+          "pinyin": "xiě",
+          "part_of_speech": "v",
+          "definition": "to write"
+       },
+       {
+          "vocab": "字",
+          "pinyin": "zì",
+          "part_of_speech": "n",
+          "definition": "character"
+       },
+       {
+          "vocab": "慢",
+          "pinyin": "màn",
+          "part_of_speech": "adj",
+          "definition": "slow"
+       },
+       {
+          "vocab": "枝",
+          "pinyin": "zhī",
+          "part_of_speech": "m",
+          "definition": "(measure word for long, thin, inflexible objects such as pens, pencils, etc.)"
+       },
+       {
+          "vocab": "笔",
+          "pinyin": "bǐ",
+          "part_of_speech": "n",
+          "definition": "pen"
+       },
+       {
+          "vocab": "纸",
+          "pinyin": "zhǐ",
+          "part_of_speech": "n",
+          "definition": "paper"
+       },
+       {
+          "vocab": "教",
+          "pinyin": "jiāo",
+          "part_of_speech": "v",
+          "definition": "to teach"
+       },
+       {
+          "vocab": "怎么",
+          "pinyin": "zěnme",
+          "part_of_speech": "qpr",
+          "definition": "how, how come"
+       },
+       {
+          "vocab": "懂",
+          "pinyin": "dǒng",
+          "part_of_speech": "v",
+          "definition": "to understand"
+       },
+       {
+          "vocab": "真",
+          "pinyin": "zhēn",
+          "part_of_speech": "adv",
+          "definition": "really [See Grammar 2]"
+       },
+       {
+          "vocab": "哪里",
+          "pinyin": "nǎlǐ",
+          "part_of_speech": "pr",
+          "definition": "where"
+       },
+       {
+          "vocab": "预习",
+          "pinyin": "yùxí",
+          "part_of_speech": "v",
+          "definition": "to preview"
+       },
+       {
+          "vocab": "学",
+          "pinyin": "xué",
+          "part_of_speech": "v",
+          "definition": "to study, to learn"
+       },
+       {
+          "vocab": "第",
+          "pinyin": "dì",
+          "part_of_speech": "prefix",
+          "definition": "prefix for ordinal numbers [See Grammar 5]"
+       },
+       {
+          "vocab": "语法",
+          "pinyin": "yǔfǎ",
+          "part_of_speech": "n",
+          "definition": "grammar"
+       },
+       {
+          "vocab": "容易",
+          "pinyin": "róngyì",
+          "part_of_speech": "adj",
+          "definition": "easy"
+       },
+       {
+          "vocab": "生词",
+          "pinyin": "shēngcí",
+          "part_of_speech": "n",
+          "definition": "new words, vocabulary"
+       },
+       {
+          "vocab": "多",
+          "pinyin": "duō",
+          "part_of_speech": "adj",
+          "definition": "many, much"
+       },
+       {
+          "vocab": "汉字",
+          "pinyin": "Hànzì",
+          "part_of_speech": "n",
+          "definition": "Chinese characters"
+       },
+       {
+          "vocab": "难",
+          "pinyin": "nán",
+          "part_of_speech": "adj",
+          "definition": "difficult"
+       }
+    ],
+    "Part 2": [
+       {
+          "vocab": "平常",
+          "pinyin": "píngcháng",
+          "part_of_speech": "adv",
+          "definition": "usually"
+       },
+       {
+          "vocab": "早",
+          "pinyin": "zǎo",
+          "part_of_speech": "adj",
+          "definition": "early"
+       },
+       {
+          "vocab": "这么",
+          "pinyin": "zhème",
+          "part_of_speech": "pr",
+          "definition": "so, this (late, etc.)"
+       },
+       {
+          "vocab": "晚",
+          "pinyin": "wǎn",
+          "part_of_speech": "adj",
+          "definition": "late"
+       },
+       {
+          "vocab": "早上",
+          "pinyin": "zǎoshang",
+          "part_of_speech": "t",
+          "definition": "morning"
+       },
+       {
+          "vocab": "功课",
+          "pinyin": "gōngkè",
+          "part_of_speech": "n",
+          "definition": "homework, schoolwork"
+       },
+       {
+          "vocab": "大家",
+          "pinyin": "dàjiā",
+          "part_of_speech": "pr",
+          "definition": "everybody"
+       },
+       {
+          "vocab": "上课",
+          "pinyin": "shàng kè",
+          "part_of_speech": "vo",
+          "definition": "to go to a class, to start a class, to be in class"
+       },
+       {
+          "vocab": "开始",
+          "pinyin": "kāishǐ",
+          "part_of_speech": "v/n",
+          "definition": "to begin, to start; beginning"
+       },
+       {
+          "vocab": "念",
+          "pinyin": "niàn",
+          "part_of_speech": "v",
+          "definition": "to read aloud"
+       },
+       {
+          "vocab": "课文",
+          "pinyin": "kèwén",
+          "part_of_speech": "n",
+          "definition": "text of a lesson"
+       },
+       {
+          "vocab": "录音",
+          "pinyin": "lùyīn",
+          "part_of_speech": "n/vo",
+          "definition": "sound recording; to record"
+       },
+       {
+          "vocab": "学习",
+          "pinyin": "xuéxí",
+          "part_of_speech": "v",
+          "definition": "to study, to learn"
+       },
+       {
+          "vocab": "帅",
+          "pinyin": "shuài",
+          "part_of_speech": "adj",
+          "definition": "handsome"
+       },
+       {
+          "vocab": "酷",
+          "pinyin": "kù",
+          "part_of_speech": "adj",
+          "definition": "cool (appearance, behavior)"
+       }
+    ]
+ },
+ "Lesson 8": {
+    "Part 1": [
+       {
+          "vocab": "篇",
+          "pinyin": "piān",
+          "part_of_speech": "m",
+          "definition": "(measure word for essays, articles, etc.)"
+       },
+       {
+          "vocab": "日记",
+          "pinyin": "rìjì",
+          "part_of_speech": "n",
+          "definition": "diary"
+       },
+       {
+          "vocab": "累",
+          "pinyin": "lèi",
+          "part_of_speech": "adj",
+          "definition": "tired"
+       },
+       {
+          "vocab": "起床",
+          "pinyin": "qǐ chuáng",
+          "part_of_speech": "vo",
+          "definition": "to get up"
+       },
+       {
+          "vocab": "床",
+          "pinyin": "chuáng",
+          "part_of_speech": "n",
+          "definition": "bed"
+       },
+       {
+          "vocab": "洗澡",
+          "pinyin": "xǐ zǎo",
+          "part_of_speech": "vo",
+          "definition": "to take a bath/shower"
+       },
+       {
+          "vocab": "早饭",
+          "pinyin": "zǎofàn",
+          "part_of_speech": "n",
+          "definition": "breakfast"
+       },
+       {
+          "vocab": "一边",
+          "pinyin": "yìbiān",
+          "part_of_speech": "adv",
+          "definition": "simultaneously, at the same time [See Grammar 3]"
+       },
+       {
+          "vocab": "教室",
+          "pinyin": "jiàoshì",
+          "part_of_speech": "n",
+          "definition": "classroom"
+       },
+       {
+          "vocab": "发音",
+          "pinyin": "fāyīn",
+          "part_of_speech": "n",
+          "definition": "pronunciation"
+       },
+       {
+          "vocab": "电脑",
+          "pinyin": "diànnǎo",
+          "part_of_speech": "n",
+          "definition": "computer"
+       },
+       {
+          "vocab": "脑",
+          "pinyin": "nǎo",
+          "part_of_speech": "n",
+          "definition": "brain"
+       },
+       {
+          "vocab": "中午",
+          "pinyin": "zhōngwǔ",
+          "part_of_speech": "t",
+          "definition": "noon"
+       },
+       {
+          "vocab": "餐厅",
+          "pinyin": "cāntīng",
+          "part_of_speech": "n",
+          "definition": "dining room, cafeteria"
+       },
+       {
+          "vocab": "午饭",
+          "pinyin": "wǔfàn",
+          "part_of_speech": "n",
+          "definition": "lunch, midday meal"
+       },
+       {
+          "vocab": "上网",
+          "pinyin": "shàng wǎng",
+          "part_of_speech": "vo",
+          "definition": "to go online, to surf the internet"
+       },
+       {
+          "vocab": "宿舍",
+          "pinyin": "sùshè",
+          "part_of_speech": "n",
+          "definition": "dormitory"
+       },
+       {
+          "vocab": "那儿",
+          "pinyin": "nàr",
+          "part_of_speech": "pr",
+          "definition": "there"
+       },
+       {
+          "vocab": "正在",
+          "pinyin": "zhèngzài",
+          "part_of_speech": "adv",
+          "definition": "in the middle of (doing something) [See Grammar 7]"
+       },
+       {
+          "vocab": "以前",
+          "pinyin": "yǐqián",
+          "part_of_speech": "t",
+          "definition": "before"
+       },
+       {
+          "vocab": "告诉",
+          "pinyin": "gàosu",
+          "part_of_speech": "v",
+          "definition": "to tell"
+       },
+       {
+          "vocab": "已经",
+          "pinyin": "yǐjīng",
+          "part_of_speech": "adv",
+          "definition": "already"
+       },
+       {
+          "vocab": "知道",
+          "pinyin": "zhīdào",
+          "part_of_speech": "v",
+          "definition": "to know"
+       }
+    ],
+    "Part 2": [
+       {
+          "vocab": "封",
+          "pinyin": "fēng",
+          "part_of_speech": "m",
+          "definition": "(measure word for letters)"
+       },
+       {
+          "vocab": "信",
+          "pinyin": "xìn",
+          "part_of_speech": "n",
+          "definition": "letter (correspondence)"
+       },
+       {
+          "vocab": "最近",
+          "pinyin": "zuìjìn",
+          "part_of_speech": "t",
+          "definition": "recently"
+       },
+       {
+          "vocab": "最",
+          "pinyin": "zuì",
+          "part_of_speech": "adv",
+          "definition": "(of superlative degree, most, -est)"
+       },
+       {
+          "vocab": "近",
+          "pinyin": "jìn",
+          "part_of_speech": "adj",
+          "definition": "close, near"
+       },
+       {
+          "vocab": "学期",
+          "pinyin": "xuéqī",
+          "part_of_speech": "n",
+          "definition": "school term, semester, quarter"
+       },
+       {
+          "vocab": "除了...以外",
+          "pinyin": "chúle...yǐwài",
+          "part_of_speech": "conj",
+          "definition": "in addition to, besides [See Grammar 8]"
+       },
+       {
+          "vocab": "专业",
+          "pinyin": "zhuānyè",
+          "part_of_speech": "n",
+          "definition": "major (in college), specialty"
+       },
+       {
+          "vocab": "会",
+          "pinyin": "huì",
+          "part_of_speech": "mv",
+          "definition": "can, know how to [See Grammar 9]"
+       },
+       {
+          "vocab": "后来",
+          "pinyin": "hòulái",
+          "part_of_speech": "t",
+          "definition": "later"
+       },
+       {
+          "vocab": "音乐会",
+          "pinyin": "yīnyuèhuì",
+          "part_of_speech": "n",
+          "definition": "concert"
+       },
+       {
+          "vocab": "希望",
+          "pinyin": "xīwàng",
+          "part_of_speech": "v/n",
+          "definition": "to hope; hope [See Grammar 9]"
+       },
+       {
+          "vocab": "能",
+          "pinyin": "néng",
+          "part_of_speech": "mv",
+          "definition": "can, to be able to [See Grammar 9]"
+       },
+       {
+          "vocab": "用",
+          "pinyin": "yòng",
+          "part_of_speech": "v",
+          "definition": "to use"
+       },
+       {
+          "vocab": "笑",
+          "pinyin": "xiào",
+          "part_of_speech": "v",
+          "definition": "to laugh at, to laugh, to smile"
+       },
+       {
+          "vocab": "祝",
+          "pinyin": "zhù",
+          "part_of_speech": "v",
+          "definition": "to wish (well)"
+       }
+    ]
+ },
+ "Lesson 9": {
+    "Part 1": [
+       {
+          "vocab": "商店",
+          "pinyin": "shāngdiàn",
+          "part_of_speech": "n",
+          "definition": "store, shop"
+       },
+       {
+          "vocab": "买",
+          "pinyin": "mǎi",
+          "part_of_speech": "v",
+          "definition": "to buy"
+       },
+       {
+          "vocab": "东西",
+          "pinyin": "dōngxī",
+          "part_of_speech": "n",
+          "definition": "things, objects"
+       },
+       {
+          "vocab": "售货员",
+          "pinyin": "shòuhuòyuán",
+          "part_of_speech": "n",
+          "definition": "shop assistant, salesclerk"
+       },
+       {
+          "vocab": "衣服",
+          "pinyin": "yīfu",
+          "part_of_speech": "n",
+          "definition": "clothes"
+       },
+       {
+          "vocab": "件",
+          "pinyin": "jiàn",
+          "part_of_speech": "m",
+          "definition": "(measure word for shirts, dresses, jackets, coats, etc.)"
+       },
+       {
+          "vocab": "衬衫",
+          "pinyin": "chènshān",
+          "part_of_speech": "n",
+          "definition": "shirt"
+       },
+       {
+          "vocab": "颜色",
+          "pinyin": "yánsè",
+          "part_of_speech": "n",
+          "definition": "color"
+       },
+       {
+          "vocab": "黄",
+          "pinyin": "huáng",
+          "part_of_speech": "adj",
+          "definition": "yellow"
+       },
+       {
+          "vocab": "红",
+          "pinyin": "hóng",
+          "part_of_speech": "adj",
+          "definition": "red"
+       },
+       {
+          "vocab": "穿",
+          "pinyin": "chuān",
+          "part_of_speech": "v",
+          "definition": "to wear, to put on"
+       },
+       {
+          "vocab": "便宜",
+          "pinyin": "piányi",
+          "part_of_speech": "adj",
+          "definition": "cheap, inexpensive"
+       },
+       {
+          "vocab": "如果",
+          "pinyin": "rúguǒ",
+          "part_of_speech": "conj",
+          "definition": "if"
+       },
+       {
+          "vocab": "的花",
+          "pinyin": "de huà",
+          "part_of_speech": "phrase",
+          "definition": "(complement used with 如果)"
+       },
+       {
+          "vocab": "长短",
+          "pinyin": "chángduǎn",
+          "part_of_speech": "n",
+          "definition": "length"
+       },
+       {
+          "vocab": "长",
+          "pinyin": "cháng",
+          "part_of_speech": "adj",
+          "definition": "long"
+       },
+       {
+          "vocab": "短",
+          "pinyin": "duǎn",
+          "part_of_speech": "adj",
+          "definition": "short"
+       },
+       {
+          "vocab": "合适",
+          "pinyin": "héshì",
+          "part_of_speech": "adj",
+          "definition": "suitable"
+       },
+       {
+          "vocab": "试",
+          "pinyin": "shì",
+          "part_of_speech": "v",
+          "definition": "to try"
+       },
+       {
+          "vocab": "不用",
+          "pinyin": "bùyòng",
+          "part_of_speech": "v",
+          "definition": "need not"
+       },
+       {
+          "vocab": "一共",
+          "pinyin": "yígòng",
+          "part_of_speech": "adv",
+          "definition": "altogether"
+       },
+       {
+          "vocab": "多少钱",
+          "pinyin": "duōshǎo qián",
+          "part_of_speech": "qpr",
+          "definition": "how much/many"
+       },
+       {
+          "vocab": "钱",
+          "pinyin": "qián",
+          "part_of_speech": "n",
+          "definition": "money"
+       },
+       {
+          "vocab": "块",
+          "pinyin": "kuài",
+          "part_of_speech": "m",
+          "definition": "(measure word for the basic Chinese monetary unit [equivalent of a dollar])"
+       },
+       {
+          "vocab": "毛",
+          "pinyin": "máo",
+          "part_of_speech": "m",
+          "definition": "(measure word for 1/10 of a kuai [equivalent of a dime])"
+       },
+       {
+          "vocab": "分",
+          "pinyin": "fēn",
+          "part_of_speech": "m",
+          "definition": "(measure word for 1/100 of a kuai [equivalent of a cent])"
+       },
+       {
+          "vocab": "百",
+          "pinyin": "bǎi",
+          "part_of_speech": "nu",
+          "definition": "hundred"
+       },
+       {
+          "vocab": "找(钱)",
+          "pinyin": "zhǎo(qián)",
+          "part_of_speech": "v/o",
+          "definition": "to give change"
+       }
+    ],
+    "Part 2": [
+       {
+          "vocab": "双",
+          "pinyin": "shuāng",
+          "part_of_speech": "m",
+          "definition": "(measure word for a pair)"
+       },
+       {
+          "vocab": "鞋",
+          "pinyin": "xié",
+          "part_of_speech": "n",
+          "definition": "shoes"
+       },
+       {
+          "vocab": "换",
+          "pinyin": "huàn",
+          "part_of_speech": "v",
+          "definition": "to exchange, to change"
+       },
+       {
+          "vocab": "一样",
+          "pinyin": "yíyàng",
+          "part_of_speech": "adj",
+          "definition": "same, alike [See Grammar 6]"
+       },
+       {
+          "vocab": "虽然",
+          "pinyin": "suīrán",
+          "part_of_speech": "conj",
+          "definition": "although [See Grammar 7]"
+       },
+       {
+          "vocab": "大小",
+          "pinyin": "dàxiǎo",
+          "part_of_speech": "n",
+          "definition": "size"
+       },
+       {
+          "vocab": "咖啡色",
+          "pinyin": "kāfēisè",
+          "part_of_speech": "n",
+          "definition": "brown, coffee color"
+       },
+       {
+          "vocab": "种",
+          "pinyin": "zhǒng",
+          "part_of_speech": "m",
+          "definition": "(measure word for kinds, sorts, types)"
+       },
+       {
+          "vocab": "黑",
+          "pinyin": "hēi",
+          "part_of_speech": "adj",
+          "definition": "black"
+       },
+       {
+          "vocab": "样子",
+          "pinyin": "yàngzi",
+          "part_of_speech": "n",
+          "definition": "style"
+       },
+       {
+          "vocab": "挺",
+          "pinyin": "tǐng",
+          "part_of_speech": "adv",
+          "definition": "very, rather"
+       },
+       {
+          "vocab": "它",
+          "pinyin": "tā",
+          "part_of_speech": "pr",
+          "definition": "it"
+       },
+       {
+          "vocab": "这儿",
+          "pinyin": "zhèr",
+          "part_of_speech": "pr",
+          "definition": "here"
+       },
+       {
+          "vocab": "刷卡",
+          "pinyin": "shuā kǎ",
+          "part_of_speech": "vo",
+          "definition": "to pay with a credit card"
+       },
+       {
+          "vocab": "刷",
+          "pinyin": "shuā",
+          "part_of_speech": "v",
+          "definition": "to brush, to swipe"
+       },
+       {
+          "vocab": "卡",
+          "pinyin": "kǎ",
+          "part_of_speech": "n",
+          "definition": "card"
+       },
+       {
+          "vocab": "收",
+          "pinyin": "shōu",
+          "part_of_speech": "v",
+          "definition": "to receive, to accept"
+       },
+       {
+          "vocab": "信用卡",
+          "pinyin": "xìnyòngkǎ",
+          "part_of_speech": "n",
+          "definition": "credit card"
+       },
+       {
+          "vocab": "不过",
+          "pinyin": "búguò",
+          "part_of_speech": "conj",
+          "definition": "however, but"
+       },
+       {
+          "vocab": "再",
+          "pinyin": "zài",
+          "part_of_speech": "adv",
+          "definition": "again"
+       },
+       {
+          "vocab": "付钱",
+          "pinyin": "fù qián",
+          "part_of_speech": "vo",
+          "definition": "to pay money"
+       },
+       {
+          "vocab": "付",
+          "pinyin": "fù",
+          "part_of_speech": "v",
+          "definition": "to pay"
+       }
+    ]
+ },
+ "Lesson 10": {
+    "Part 1": [
+       {
+          "vocab": "寒假",
+          "pinyin": "hánjià",
+          "part_of_speech": "n",
+          "definition": "winter vacation"
+       },
+       {
+          "vocab": "飞机",
+          "pinyin": "fēijī",
+          "part_of_speech": "n",
+          "definition": "airplane"
+       },
+       {
+          "vocab": "飞",
+          "pinyin": "fēi",
+          "part_of_speech": "v",
+          "definition": "to fly"
+       },
+       {
+          "vocab": "机",
+          "pinyin": "jī",
+          "part_of_speech": "n",
+          "definition": "machine"
+       },
+       {
+          "vocab": "票",
+          "pinyin": "piào",
+          "part_of_speech": "n",
+          "definition": "ticket"
+       },
+       {
+          "vocab": "(飞)机场",
+          "pinyin": "(fēi)jīchǎng",
+          "part_of_speech": "n",
+          "definition": "airport"
+       },
+       {
+          "vocab": "坐",
+          "pinyin": "zuò",
+          "part_of_speech": "v",
+          "definition": "to travel by"
+       },
+       {
+          "vocab": "公共汽车",
+          "pinyin": "gōnggòng qìchē",
+          "part_of_speech": "n",
+          "definition": "bus"
+       },
+       {
+          "vocab": "公共",
+          "pinyin": "gōnggòng",
+          "part_of_speech": "adj",
+          "definition": "public"
+       },
+       {
+          "vocab": "汽车",
+          "pinyin": "qìchē",
+          "part_of_speech": "n",
+          "definition": "automobile"
+       },
+       {
+          "vocab": "车",
+          "pinyin": "chē",
+          "part_of_speech": "n",
+          "definition": "vehicle, car"
+       },
+       {
+          "vocab": "地铁",
+          "pinyin": "dìtiě",
+          "part_of_speech": "n",
+          "definition": "subway"
+       },
+       {
+          "vocab": "走",
+          "pinyin": "zǒu",
+          "part_of_speech": "v",
+          "definition": "to go by way of, to walk"
+       },
+       {
+          "vocab": "先",
+          "pinyin": "xiān",
+          "part_of_speech": "adv",
+          "definition": "first [See Grammar 3]"
+       },
+       {
+          "vocab": "路",
+          "pinyin": "lù",
+          "part_of_speech": "n",
+          "definition": "route, road"
+       },
+       {
+          "vocab": "站",
+          "pinyin": "zhàn",
+          "part_of_speech": "m",
+          "definition": "(measure word for bus stops, train stops, etc.)"
+       },
+       {
+          "vocab": "下车",
+          "pinyin": "xià chē",
+          "part_of_speech": "vo",
+          "definition": "to get off (a bus, train, etc.)"
+       },
+       {
+          "vocab": "然后",
+          "pinyin": "ránhòu",
+          "part_of_speech": "adv",
+          "definition": "then"
+       },
+       {
+          "vocab": "绿",
+          "pinyin": "lǜ",
+          "part_of_speech": "adj",
+          "definition": "green"
+       },
+       {
+          "vocab": "线",
+          "pinyin": "xiàn",
+          "part_of_speech": "n",
+          "definition": "line"
+       },
+       {
+          "vocab": "最后",
+          "pinyin": "zuìhòu",
+          "part_of_speech": "adj",
+          "definition": "final, last"
+       },
+       {
+          "vocab": "蓝",
+          "pinyin": "lán",
+          "part_of_speech": "adj",
+          "definition": "blue"
+       },
+       {
+          "vocab": "麻烦",
+          "pinyin": "máfan",
+          "part_of_speech": "adj",
+          "definition": "troublesome"
+       },
+       {
+          "vocab": "打车",
+          "pinyin": "dǎ chē",
+          "part_of_speech": "vo",
+          "definition": "to take a taxi"
+       },
+       {
+          "vocab": "出租汽车",
+          "pinyin": "chūzū qìchē",
+          "part_of_speech": "n",
+          "definition": "taxi"
+       },
+       {
+          "vocab": "出租",
+          "pinyin": "chūzū",
+          "part_of_speech": "v",
+          "definition": "to rent out, to let"
+       },
+       {
+          "vocab": "租",
+          "pinyin": "zū",
+          "part_of_speech": "v",
+          "definition": "to rent"
+       },
+       {
+          "vocab": "开车",
+          "pinyin": "kāi chē",
+          "part_of_speech": "vo",
+          "definition": "to drive a car"
+       },
+       {
+          "vocab": "开",
+          "pinyin": "kāi",
+          "part_of_speech": "v",
+          "definition": "to drive, to operate"
+       },
+       {
+          "vocab": "送",
+          "pinyin": "sòng",
+          "part_of_speech": "v",
+          "definition": "to see off or out, to take (someone somewhere)"
+       }
+    ],
+    "Part 2": [
+       {
+          "vocab": "电子邮件",
+          "pinyin": "diànzǐ yóujiàn",
+          "part_of_speech": "n",
+          "definition": "email/electronic mail"
+       },
+       {
+          "vocab": "电子",
+          "pinyin": "diànzǐ",
+          "part_of_speech": "n",
+          "definition": "electron"
+       },
+       {
+          "vocab": "让",
+          "pinyin": "ràng",
+          "part_of_speech": "v",
+          "definition": "to allow or cause (somebody to do something)"
+       },
+       {
+          "vocab": "花",
+          "pinyin": "huā",
+          "part_of_speech": "v",
+          "definition": "to spend"
+       },
+       {
+          "vocab": "不好意思",
+          "pinyin": "bù hǎoyìsi",
+          "part_of_speech": "adj",
+          "definition": "to feel embarrassed"
+       },
+       {
+          "vocab": "出去",
+          "pinyin": "chūqù",
+          "part_of_speech": "vc",
+          "definition": "to go out"
+       },
+       {
+          "vocab": "每",
+          "pinyin": "měi",
+          "part_of_speech": "pr",
+          "definition": "every, each [See Grammar 5]"
+       },
+       {
+          "vocab": "城市",
+          "pinyin": "chéngshì",
+          "part_of_speech": "n",
+          "definition": "city"
+       },
+       {
+          "vocab": "特别",
+          "pinyin": "tèbié",
+          "part_of_speech": "adv",
+          "definition": "especially"
+       },
+       {
+          "vocab": "高速公路",
+          "pinyin": "gāosù gōnglù",
+          "part_of_speech": "n",
+          "definition": "highway"
+       },
+       {
+          "vocab": "高速",
+          "pinyin": "gāosù",
+          "part_of_speech": "adj",
+          "definition": "high speed"
+       },
+       {
+          "vocab": "公路",
+          "pinyin": "gōnglù",
+          "part_of_speech": "n",
+          "definition": "highway, public road"
+       },
+       {
+          "vocab": "路",
+          "pinyin": "lù",
+          "part_of_speech": "n",
+          "definition": "road, path"
+       },
+       {
+          "vocab": "紧张",
+          "pinyin": "jǐnzhāng",
+          "part_of_speech": "adj",
+          "definition": "nervous, anxious"
+       },
+       {
+          "vocab": "自己",
+          "pinyin": "zìjǐ",
+          "part_of_speech": "pr",
+          "definition": "oneself"
+       },
+       {
+          "vocab": "手机",
+          "pinyin": "shǒujī",
+          "part_of_speech": "n",
+          "definition": "cell phone"
+       },
+       {
+          "vocab": "发短信",
+          "pinyin": "fā duǎnxìn",
+          "part_of_speech": "vo",
+          "definition": "to send a text message (lit. to send a short message)"
+       },
+       {
+          "vocab": "新年",
+          "pinyin": "xīnnián",
+          "part_of_speech": "n",
+          "definition": "new year"
+       },
+       {
+          "vocab": "快乐",
+          "pinyin": "kuàilè",
+          "part_of_speech": "adj",
+          "definition": "happy"
+       }
+    ]
+ }
+}

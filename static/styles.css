@@ -1,0 +1,265 @@
+/* General Styling */
+body {
+  font-family: 'Noto Serif SC', serif; /* Chinese-style serif font */
+  background-color: #fff7e6;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  background-color: #c41a1c; /* Red with gold accents */
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 24px;
+}
+
+main {
+  flex: 1; /* Makes the main content fill the available vertical space */
+  max-width: 800px;
+  margin: 20px auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid #c41a1c;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #fff;
+}
+
+/* Feedback Styling */
+.feedback {
+  text-align: center;
+  margin: 20px;
+}
+
+.feedback .correct {
+  color: green;
+  font-size: 18px;
+}
+
+.feedback .incorrect {
+  color: red;
+  font-size: 18px;
+}
+
+/* Option Styling */
+.option {
+  margin: 10px 0;
+}
+
+.option-label {
+  display: block;
+  background: #f0f0f0;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.option-label:hover {
+  background: #e0e0e0;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+input[type="radio"]:checked + .option-label {
+  background: #c41a1c;
+  color: white;
+  border-color: #a31516;
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Button Styling */
+button, .submit-btn, .next-question-btn {
+  display: inline-block;
+  background-color: #c41a1c;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover, .submit-btn:hover, .next-question-btn:hover {
+  background-color: #a31516;
+}
+
+/* Panda Styling */
+.panda {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  animation: pandaBounce 1.5s infinite;
+}
+
+.panda-head {
+  position: absolute;
+  width: 120px;
+  height: 100px;
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 50%;
+  top: 25px;
+}
+
+.panda-ear {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+.panda-ear.left {
+  top: -10px;
+  left: 10px;
+}
+
+.panda-ear.right {
+  top: -10px;
+  right: 10px;
+}
+
+.panda-eye {
+  position: absolute;
+  width: 15px;
+  height: 20px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+.panda-eye.left {
+  top: 40px;
+  left: 25px;
+}
+
+.panda-eye.right {
+  top: 40px;
+  right: 25px;
+}
+
+.panda-eye.white {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background-color: white;
+  border-radius: 50%;
+  top: 5px;
+  left: 4px;
+}
+
+.panda-nose {
+  position: absolute;
+  width: 15px;
+  height: 10px;
+  background-color: black;
+  border-radius: 50%;
+  top: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.panda-mouth {
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  border: 2px solid black;
+  border-radius: 0 0 40px 40px;
+  border-top: none;
+  top: 70px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#panda
+	{
+		position:relative;
+		background: url("./images/Panda.png");
+		width :250px;
+		height: 330px;
+		animation: walking_animation 1s steps(12) infinite,move_forward 8s linear infinite;
+	}
+
+@keyframes walking_animation
+	{
+		0%{background-position: 0px;}
+		100%{background-position: 3000px;}
+	}
+
+@keyframes move_forward
+	{
+		0%{transform:translateX(-100px);}
+		100%{transform:translateX(1366px);}
+	}
+
+@keyframes pandaBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+/* Progress Bar Styling */
+.progress-container {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  margin-top: 20px;
+}
+
+.progress-bar {
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  width: 90%;
+  height: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  width: 0%; /* Updated dynamically via inline style */
+  height: 100%;
+  background-color: #c41a1c;
+  transition: width 0.5s ease-in-out;
+}
+
+/* Panda Marker */
+.panda-progress {
+  position: absolute;
+  top: -40px; /* Panda sits above the bar */
+  left: 0%;    /* Updated dynamically via inline style */
+  width: 50px; /* Width of the panda */
+  height: 50px;
+  transition: left 0.5s ease-in-out;
+}
+
+.panda-progress .panda {
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+

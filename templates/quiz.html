@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+  <header>
+    <h1>Flashcard Quiz</h1>
+  </header>
+  <main>
+    {% if feedback %}
+      <div class="feedback">
+        {% if feedback.is_correct %}
+          <p class="correct">Correct! Great job! 🎉</p>
+        {% else %}
+          <p class="incorrect">Incorrect. You answered: <strong>{{ feedback.user_answer }}</strong></p>
+          <p>The correct answer was: <strong>{{ feedback.correct_answer }}</strong></p>
+        {% endif %}
+        <a href="/next_question" class="next-question-btn">Next Question</a>
+      </div>
+    {% elif current_question %}
+      <h2>{{ current_question['vocab'] }}{% if current_question['pinyin'] %} ({{ current_question['pinyin'] }}){% endif %}</h2>
+      <form method="post" action="/submit_answer" class="quiz-form">
+        {% for option in current_question['options'] %}
+          <div class="option">
+            <input type="radio" id="{{ option }}" name="answer" value="{{ option }}" required>
+            <label for="{{ option }}" class="option-label">{{ option }}</label>
+          </div>
+        {% endfor %}
+        <input type="hidden" name="vocab" value="{{ current_question['vocab'] }}">
+        <input type="hidden" name="correct_answer" value="{{ current_question['definition'] }}">
+        <button type="submit" class="submit-btn">Submit Answer</button>
+      </form>
+    {% else %}
+      <h2>Congratulations! You've completed the quiz!</h2>
+      <a href="/" class="next-question-btn">Back to Lessons</a>
+    {% endif %}
+  </main>
+  <footer>
+      <div class="progress-container">
+          <div class="progress-bar">
+              <!-- Progress bar fill -->
+              <div class="progress-fill" style="width: {{ progress_percent }}%;"></div>
+          </div>
+          <!-- Panda marker -->
+          <div class="panda-progress" style="left: {{ progress_percent }}%;">
+              <div class="panda">
+                  <div class="panda-head">
+                      <div class="panda-ear left"></div>
+                      <div class="panda-ear right"></div>
+                      <div class="panda-eye left">
+                          <div class="panda-eye white"></div>
+                      </div>
+                      <div class="panda-eye right">
+                          <div class="panda-eye white"></div>
+                      </div>
+                      <div class="panda-nose"></div>
+                      <div class="panda-mouth"></div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </footer>
+</body>
+</html>

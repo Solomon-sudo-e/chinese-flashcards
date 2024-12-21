@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Results</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+  <header>
+    <h1>Quiz Results</h1>
+  </header>
+  <main>
+    <p>You got <strong>{{ correct }}</strong> out of <strong>{{ total }}</strong> correct.</p>
+    <ul>
+      {% for result in results %}
+        <li>
+          <strong>Vocabulary:</strong> {{ result['vocab'] }}
+          <strong>Your Answer:</strong> {{ result['user_answer'] }}
+          <strong>Correct Answer:</strong> {{ result['correct_answer'] }}
+        </li>
+      {% endfor %}
+    </ul>
+    <a href="/"><button>Back to Lessons</button></a>
+  </main>
+  <footer>
+    <div class="panda">
+      <div class="panda-head">
+        <div class="panda-ear left"></div>
+        <div class="panda-ear right"></div>
+        <div class="panda-eye left">
+          <div class="panda-eye white"></div>
+        </div>
+        <div class="panda-eye right">
+          <div class="panda-eye white"></div>
+        </div>
+        <div class="panda-nose"></div>
+        <div class="panda-mouth"></div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
